@@ -1,1 +1,1 @@
-wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-aarch64.sh
+pip install https://storage.googleapis.com/tensorflow/raspberrypi/tensorflow-2.3.0-cp35-none-linux_armv7l.whl
