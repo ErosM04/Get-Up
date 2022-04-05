@@ -1,1 +1,1 @@
-wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-aarch64.sh
+wget https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-aarch64.sh
